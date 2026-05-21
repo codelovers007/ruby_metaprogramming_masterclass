@@ -1,4 +1,4 @@
-# ruby_metaprogramming_masterclass
+# Ruby Metaprogramming Masterclass
 This repo is dedicated to the YouTube channel, 
 where you can find all the Ruby Metaprogramming related videos.
 This is my YouTube channel, where you can watch the whole Ruby Metaprogramming series.
